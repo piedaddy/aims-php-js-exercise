@@ -1,0 +1,22 @@
+html {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  max-width: 800px;
+  margin: 0 1em;
+}
+
+.button {
+  color: blue;
+}
+
+.buttons {
+  color: green;
+  margin-left: 4em;
+}
+
+.search {
+  display: flex;
+}
+/*# sourceMappingURL=app.css.map*/

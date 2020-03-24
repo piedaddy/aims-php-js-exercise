@@ -1,0 +1,1202 @@
+[
+  {
+    "title": "nec, mollis vitae, posuere",
+    "duration": 189,
+    "artists": "orange, yellow, red, violet, green",
+    "release_date": "16/04/2019"
+  },
+  {
+    "title": "dui. Fusce aliquam, enim",
+    "duration": 146,
+    "artists": "violet",
+    "release_date": "25/02/2020"
+  },
+  {
+    "title": "egestas nunc sed libero.",
+    "duration": 84,
+    "artists": "",
+    "release_date": "02/10/2019"
+  },
+  {
+    "title": "vel sapien imperdiet ornare.",
+    "duration": 109,
+    "artists": "blue",
+    "release_date": "11/01/2020"
+  },
+  {
+    "title": "Maecenas iaculis aliquet diam.",
+    "duration": 118,
+    "artists": "indigo, red, green, blue",
+    "release_date": "17/04/2019"
+  },
+  {
+    "title": "ipsum. Suspendisse sagittis. Nullam",
+    "duration": 129,
+    "artists": "yellow, red, violet, blue, orange",
+    "release_date": "09/07/2019"
+  },
+  {
+    "title": "vitae odio sagittis semper.",
+    "duration": 89,
+    "artists": "orange, yellow, violet",
+    "release_date": "01/09/2019"
+  },
+  {
+    "title": "lacinia orci, consectetuer euismod",
+    "duration": 120,
+    "artists": "orange, yellow, indigo",
+    "release_date": "03/02/2020"
+  },
+  {
+    "title": "ut ipsum ac mi",
+    "duration": 92,
+    "artists": "violet",
+    "release_date": "28/08/2019"
+  },
+  {
+    "title": "enim. Suspendisse aliquet, sem",
+    "duration": 75,
+    "artists": "blue, violet",
+    "release_date": "21/11/2019"
+  },
+  {
+    "title": "amet, consectetuer adipiscing elit.",
+    "duration": 177,
+    "artists": "",
+    "release_date": "31/10/2019"
+  },
+  {
+    "title": "felis. Donec tempor, est",
+    "duration": 218,
+    "artists": "yellow, orange, indigo, blue",
+    "release_date": "31/08/2019"
+  },
+  {
+    "title": "a feugiat tellus lorem",
+    "duration": 193,
+    "artists": "blue, orange",
+    "release_date": "09/11/2019"
+  },
+  {
+    "title": "Phasellus dapibus quam quis",
+    "duration": 143,
+    "artists": "red",
+    "release_date": "23/01/2020"
+  },
+  {
+    "title": "erat, eget tincidunt dui",
+    "duration": 195,
+    "artists": "",
+    "release_date": "04/12/2019"
+  },
+  {
+    "title": "gravida sagittis. Duis gravida.",
+    "duration": 29,
+    "artists": "",
+    "release_date": "08/07/2019"
+  },
+  {
+    "title": "eros non enim commodo",
+    "duration": 18,
+    "artists": "green, red",
+    "release_date": "10/11/2019"
+  },
+  {
+    "title": "pede sagittis augue, eu",
+    "duration": 84,
+    "artists": "blue, violet, indigo",
+    "release_date": "22/12/2019"
+  },
+  {
+    "title": "feugiat nec, diam. Duis",
+    "duration": 183,
+    "artists": "indigo, blue, green",
+    "release_date": "03/06/2019"
+  },
+  {
+    "title": "Cum sociis natoque penatibus",
+    "duration": 181,
+    "artists": "blue, violet, green, red, indigo",
+    "release_date": "14/11/2019"
+  },
+  {
+    "title": "aliquet vel, vulputate eu,",
+    "duration": 153,
+    "artists": "indigo, green",
+    "release_date": "09/08/2019"
+  },
+  {
+    "title": "quam. Pellentesque habitant morbi",
+    "duration": 33,
+    "artists": "orange, violet, red",
+    "release_date": "31/12/2019"
+  },
+  {
+    "title": "aptent taciti sociosqu ad",
+    "duration": 287,
+    "artists": "blue",
+    "release_date": "16/05/2019"
+  },
+  {
+    "title": "sed orci lobortis augue",
+    "duration": 46,
+    "artists": "blue, green",
+    "release_date": "12/02/2020"
+  },
+  {
+    "title": "at, nisi. Cum sociis",
+    "duration": 92,
+    "artists": "violet",
+    "release_date": "03/10/2019"
+  },
+  {
+    "title": "sit amet ultricies sem",
+    "duration": 169,
+    "artists": "violet, orange, yellow, indigo",
+    "release_date": "27/08/2019"
+  },
+  {
+    "title": "pellentesque. Sed dictum. Proin",
+    "duration": 200,
+    "artists": "yellow, blue",
+    "release_date": "01/11/2019"
+  },
+  {
+    "title": "dapibus rutrum, justo. Praesent",
+    "duration": 131,
+    "artists": "red, green",
+    "release_date": "08/07/2019"
+  },
+  {
+    "title": "ipsum. Suspendisse sagittis. Nullam",
+    "duration": 204,
+    "artists": "indigo, red",
+    "release_date": "23/07/2019"
+  },
+  {
+    "title": "nisi a odio semper",
+    "duration": 90,
+    "artists": "",
+    "release_date": "27/10/2019"
+  },
+  {
+    "title": "Duis mi enim, condimentum",
+    "duration": 103,
+    "artists": "blue, indigo, green",
+    "release_date": "25/05/2019"
+  },
+  {
+    "title": "odio. Aliquam vulputate ullamcorper",
+    "duration": 100,
+    "artists": "yellow, red, orange, violet",
+    "release_date": "29/01/2020"
+  },
+  {
+    "title": "sed, hendrerit a, arcu.",
+    "duration": 280,
+    "artists": "orange, blue",
+    "release_date": "21/08/2019"
+  },
+  {
+    "title": "sollicitudin commodo ipsum. Suspendisse",
+    "duration": 86,
+    "artists": "orange, red, yellow",
+    "release_date": "31/07/2019"
+  },
+  {
+    "title": "convallis est, vitae sodales",
+    "duration": 139,
+    "artists": "",
+    "release_date": "24/08/2019"
+  },
+  {
+    "title": "quis urna. Nunc quis",
+    "duration": 251,
+    "artists": "orange, yellow, green",
+    "release_date": "12/04/2019"
+  },
+  {
+    "title": "ut mi. Duis risus",
+    "duration": 107,
+    "artists": "green, orange, violet, indigo",
+    "release_date": "08/05/2019"
+  },
+  {
+    "title": "netus et malesuada fames",
+    "duration": 54,
+    "artists": "yellow, blue",
+    "release_date": "13/04/2019"
+  },
+  {
+    "title": "euismod et, commodo at,",
+    "duration": 132,
+    "artists": "orange, blue, green, yellow",
+    "release_date": "27/06/2019"
+  },
+  {
+    "title": "placerat. Cras dictum ultricies",
+    "duration": 63,
+    "artists": "yellow, green, blue",
+    "release_date": "25/07/2019"
+  },
+  {
+    "title": "purus. Maecenas libero est,",
+    "duration": 259,
+    "artists": "red, blue, green",
+    "release_date": "25/11/2019"
+  },
+  {
+    "title": "aliquam adipiscing lacus. Ut",
+    "duration": 209,
+    "artists": "",
+    "release_date": "07/06/2019"
+  },
+  {
+    "title": "Etiam vestibulum massa rutrum",
+    "duration": 213,
+    "artists": "yellow",
+    "release_date": "21/12/2019"
+  },
+  {
+    "title": "Maecenas iaculis aliquet diam.",
+    "duration": 10,
+    "artists": "red",
+    "release_date": "09/02/2020"
+  },
+  {
+    "title": "egestas, urna justo faucibus",
+    "duration": 254,
+    "artists": "green, violet, red, orange",
+    "release_date": "19/06/2019"
+  },
+  {
+    "title": "tortor, dictum eu, placerat",
+    "duration": 143,
+    "artists": "",
+    "release_date": "22/02/2020"
+  },
+  {
+    "title": "pharetra sed, hendrerit a,",
+    "duration": 132,
+    "artists": "red, violet, blue",
+    "release_date": "10/01/2020"
+  },
+  {
+    "title": "Integer vulputate, risus a",
+    "duration": 65,
+    "artists": "",
+    "release_date": "22/11/2019"
+  },
+  {
+    "title": "libero et tristique pellentesque,",
+    "duration": 117,
+    "artists": "orange",
+    "release_date": "14/08/2019"
+  },
+  {
+    "title": "non magna. Nam ligula",
+    "duration": 118,
+    "artists": "indigo, green, violet",
+    "release_date": "21/02/2020"
+  },
+  {
+    "title": "consequat purus. Maecenas libero",
+    "duration": 193,
+    "artists": "red, indigo, orange, violet, green",
+    "release_date": "21/02/2020"
+  },
+  {
+    "title": "iaculis enim, sit amet",
+    "duration": 203,
+    "artists": "indigo, violet",
+    "release_date": "04/09/2019"
+  },
+  {
+    "title": "pretium et, rutrum non,",
+    "duration": 169,
+    "artists": "violet",
+    "release_date": "26/08/2019"
+  },
+  {
+    "title": "nisi. Cum sociis natoque",
+    "duration": 213,
+    "artists": "green",
+    "release_date": "07/01/2020"
+  },
+  {
+    "title": "in magna. Phasellus dolor",
+    "duration": 55,
+    "artists": "indigo",
+    "release_date": "25/06/2019"
+  },
+  {
+    "title": "Integer in magna. Phasellus",
+    "duration": 118,
+    "artists": "orange, green, violet",
+    "release_date": "16/07/2019"
+  },
+  {
+    "title": "tincidunt vehicula risus. Nulla",
+    "duration": 63,
+    "artists": "orange, violet, red, green, indigo",
+    "release_date": "27/04/2019"
+  },
+  {
+    "title": "mauris, aliquam eu, accumsan",
+    "duration": 199,
+    "artists": "green, yellow, red, blue, indigo",
+    "release_date": "19/01/2020"
+  },
+  {
+    "title": "sem magna nec quam.",
+    "duration": 183,
+    "artists": "red",
+    "release_date": "27/01/2020"
+  },
+  {
+    "title": "Quisque porttitor eros nec",
+    "duration": 85,
+    "artists": "red, violet, orange, green, indigo",
+    "release_date": "19/09/2019"
+  },
+  {
+    "title": "turpis. Aliquam adipiscing lobortis",
+    "duration": 281,
+    "artists": "orange, indigo, red, yellow",
+    "release_date": "11/08/2019"
+  },
+  {
+    "title": "ultricies ornare, elit elit",
+    "duration": 41,
+    "artists": "red, yellow",
+    "release_date": "03/06/2019"
+  },
+  {
+    "title": "eros turpis non enim.",
+    "duration": 244,
+    "artists": "orange",
+    "release_date": "14/05/2019"
+  },
+  {
+    "title": "metus eu erat semper",
+    "duration": 112,
+    "artists": "red, indigo, orange",
+    "release_date": "01/12/2019"
+  },
+  {
+    "title": "turpis non enim. Mauris",
+    "duration": 56,
+    "artists": "violet",
+    "release_date": "09/01/2020"
+  },
+  {
+    "title": "rhoncus. Donec est. Nunc",
+    "duration": 113,
+    "artists": "red, indigo",
+    "release_date": "05/01/2020"
+  },
+  {
+    "title": "Maecenas iaculis aliquet diam.",
+    "duration": 286,
+    "artists": "",
+    "release_date": "31/03/2019"
+  },
+  {
+    "title": "tempus mauris erat eget",
+    "duration": 172,
+    "artists": "",
+    "release_date": "11/06/2019"
+  },
+  {
+    "title": "vitae risus. Duis a",
+    "duration": 95,
+    "artists": "green",
+    "release_date": "19/09/2019"
+  },
+  {
+    "title": "nisi sem semper erat,",
+    "duration": 40,
+    "artists": "orange, indigo, red, violet, yellow",
+    "release_date": "25/05/2019"
+  },
+  {
+    "title": "auctor ullamcorper, nisl arcu",
+    "duration": 120,
+    "artists": "indigo",
+    "release_date": "31/07/2019"
+  },
+  {
+    "title": "at augue id ante",
+    "duration": 222,
+    "artists": "violet, yellow, green, blue",
+    "release_date": "19/11/2019"
+  },
+  {
+    "title": "fringilla ornare placerat, orci",
+    "duration": 148,
+    "artists": "orange",
+    "release_date": "23/05/2019"
+  },
+  {
+    "title": "felis eget varius ultrices,",
+    "duration": 98,
+    "artists": "orange",
+    "release_date": "10/08/2019"
+  },
+  {
+    "title": "tincidunt aliquam arcu. Aliquam",
+    "duration": 296,
+    "artists": "",
+    "release_date": "06/02/2020"
+  },
+  {
+    "title": "mollis lectus pede et",
+    "duration": 57,
+    "artists": "orange, violet, yellow, blue",
+    "release_date": "02/10/2019"
+  },
+  {
+    "title": "lacus. Nulla tincidunt, neque",
+    "duration": 290,
+    "artists": "yellow, orange, green",
+    "release_date": "23/06/2019"
+  },
+  {
+    "title": "enim, sit amet ornare",
+    "duration": 140,
+    "artists": "indigo, violet, red, orange",
+    "release_date": "28/09/2019"
+  },
+  {
+    "title": "Nunc lectus pede, ultrices",
+    "duration": 134,
+    "artists": "",
+    "release_date": "13/04/2019"
+  },
+  {
+    "title": "et magnis dis parturient",
+    "duration": 254,
+    "artists": "violet, green, blue",
+    "release_date": "12/06/2019"
+  },
+  {
+    "title": "Mauris vel turpis. Aliquam",
+    "duration": 179,
+    "artists": "blue, red, violet",
+    "release_date": "15/11/2019"
+  },
+  {
+    "title": "elit fermentum risus, at",
+    "duration": 19,
+    "artists": "green",
+    "release_date": "04/07/2019"
+  },
+  {
+    "title": "orci sem eget massa.",
+    "duration": 178,
+    "artists": "yellow, violet, green, orange, indigo",
+    "release_date": "09/07/2019"
+  },
+  {
+    "title": "Duis gravida. Praesent eu",
+    "duration": 140,
+    "artists": "green, yellow, orange",
+    "release_date": "04/10/2019"
+  },
+  {
+    "title": "tincidunt dui augue eu",
+    "duration": 199,
+    "artists": "orange",
+    "release_date": "09/11/2019"
+  },
+  {
+    "title": "enim. Etiam gravida molestie",
+    "duration": 32,
+    "artists": "red",
+    "release_date": "07/01/2020"
+  },
+  {
+    "title": "mauris ut mi. Duis",
+    "duration": 183,
+    "artists": "green, red",
+    "release_date": "06/05/2019"
+  },
+  {
+    "title": "Nunc ac sem ut",
+    "duration": 201,
+    "artists": "green, blue, indigo",
+    "release_date": "16/02/2020"
+  },
+  {
+    "title": "tellus, imperdiet non, vestibulum",
+    "duration": 109,
+    "artists": "indigo, yellow, red, violet",
+    "release_date": "23/08/2019"
+  },
+  {
+    "title": "magna et ipsum cursus",
+    "duration": 225,
+    "artists": "red, orange, indigo",
+    "release_date": "11/10/2019"
+  },
+  {
+    "title": "orci tincidunt adipiscing. Mauris",
+    "duration": 223,
+    "artists": "orange",
+    "release_date": "31/03/2019"
+  },
+  {
+    "title": "metus eu erat semper",
+    "duration": 36,
+    "artists": "red, violet, yellow, indigo, blue",
+    "release_date": "01/04/2019"
+  },
+  {
+    "title": "eu, ultrices sit amet,",
+    "duration": 284,
+    "artists": "red, orange, yellow, green",
+    "release_date": "25/01/2020"
+  },
+  {
+    "title": "est, congue a, aliquet",
+    "duration": 41,
+    "artists": "",
+    "release_date": "11/10/2019"
+  },
+  {
+    "title": "hendrerit a, arcu. Sed",
+    "duration": 203,
+    "artists": "green, yellow, red",
+    "release_date": "19/12/2019"
+  },
+  {
+    "title": "risus. Donec egestas. Aliquam",
+    "duration": 210,
+    "artists": "orange, violet, green, yellow, blue",
+    "release_date": "31/12/2019"
+  },
+  {
+    "title": "non, lobortis quis, pede.",
+    "duration": 15,
+    "artists": "orange",
+    "release_date": "22/04/2019"
+  },
+  {
+    "title": "vel arcu. Curabitur ut",
+    "duration": 27,
+    "artists": "",
+    "release_date": "25/08/2019"
+  },
+  {
+    "title": "Integer aliquam adipiscing lacus.",
+    "duration": 195,
+    "artists": "yellow, indigo, blue, green, violet",
+    "release_date": "06/12/2019"
+  },
+  {
+    "title": "sit amet risus. Donec",
+    "duration": 97,
+    "artists": "",
+    "release_date": "29/10/2019"
+  },
+  {
+    "title": "mauris, rhoncus id, mollis",
+    "duration": 256,
+    "artists": "red, yellow, orange, green",
+    "release_date": "03/01/2020"
+  },
+  {
+    "title": "diam lorem, auctor quis,",
+    "duration": 11,
+    "artists": "blue, green, red",
+    "release_date": "16/11/2019"
+  },
+  {
+    "title": "magna. Duis dignissim tempor",
+    "duration": 184,
+    "artists": "blue",
+    "release_date": "24/05/2019"
+  },
+  {
+    "title": "sit amet diam eu",
+    "duration": 238,
+    "artists": "",
+    "release_date": "11/07/2019"
+  },
+  {
+    "title": "dapibus gravida. Aliquam tincidunt,",
+    "duration": 40,
+    "artists": "yellow, blue, orange",
+    "release_date": "03/08/2019"
+  },
+  {
+    "title": "in aliquet lobortis, nisi",
+    "duration": 154,
+    "artists": "",
+    "release_date": "04/06/2019"
+  },
+  {
+    "title": "lectus, a sollicitudin orci",
+    "duration": 104,
+    "artists": "indigo, orange, blue, red, green",
+    "release_date": "24/05/2019"
+  },
+  {
+    "title": "neque pellentesque massa lobortis",
+    "duration": 161,
+    "artists": "blue, green, red",
+    "release_date": "04/05/2019"
+  },
+  {
+    "title": "congue a, aliquet vel,",
+    "duration": 27,
+    "artists": "red, blue, indigo, orange, violet",
+    "release_date": "24/04/2019"
+  },
+  {
+    "title": "Suspendisse commodo tincidunt nibh.",
+    "duration": 14,
+    "artists": "red, green, blue",
+    "release_date": "20/05/2019"
+  },
+  {
+    "title": "diam. Duis mi enim,",
+    "duration": 51,
+    "artists": "orange",
+    "release_date": "09/10/2019"
+  },
+  {
+    "title": "dictum mi, ac mattis",
+    "duration": 105,
+    "artists": "violet, orange, blue",
+    "release_date": "17/02/2020"
+  },
+  {
+    "title": "nulla. Integer vulputate, risus",
+    "duration": 186,
+    "artists": "green, blue, yellow, red, violet",
+    "release_date": "05/01/2020"
+  },
+  {
+    "title": "laoreet ipsum. Curabitur consequat,",
+    "duration": 244,
+    "artists": "red, orange, indigo",
+    "release_date": "04/10/2019"
+  },
+  {
+    "title": "tortor. Integer aliquam adipiscing",
+    "duration": 207,
+    "artists": "yellow, orange, violet",
+    "release_date": "30/10/2019"
+  },
+  {
+    "title": "quam. Curabitur vel lectus.",
+    "duration": 107,
+    "artists": "violet",
+    "release_date": "11/10/2019"
+  },
+  {
+    "title": "elit, pharetra ut, pharetra",
+    "duration": 104,
+    "artists": "yellow, violet, blue, indigo",
+    "release_date": "19/07/2019"
+  },
+  {
+    "title": "viverra. Maecenas iaculis aliquet",
+    "duration": 96,
+    "artists": "blue",
+    "release_date": "27/01/2020"
+  },
+  {
+    "title": "adipiscing elit. Etiam laoreet,",
+    "duration": 142,
+    "artists": "red, indigo, orange, yellow",
+    "release_date": "08/06/2019"
+  },
+  {
+    "title": "turpis non enim. Mauris",
+    "duration": 187,
+    "artists": "green, blue, orange, indigo",
+    "release_date": "14/02/2020"
+  },
+  {
+    "title": "sit amet, faucibus ut,",
+    "duration": 234,
+    "artists": "indigo, violet, green, blue",
+    "release_date": "23/12/2019"
+  },
+  {
+    "title": "euismod urna. Nullam lobortis",
+    "duration": 175,
+    "artists": "green, orange",
+    "release_date": "14/06/2019"
+  },
+  {
+    "title": "nisi. Aenean eget metus.",
+    "duration": 25,
+    "artists": "",
+    "release_date": "15/09/2019"
+  },
+  {
+    "title": "rutrum eu, ultrices sit",
+    "duration": 274,
+    "artists": "green, indigo, violet, blue",
+    "release_date": "31/01/2020"
+  },
+  {
+    "title": "amet ornare lectus justo",
+    "duration": 127,
+    "artists": "indigo, blue, violet, yellow",
+    "release_date": "15/09/2019"
+  },
+  {
+    "title": "dui. Cras pellentesque. Sed",
+    "duration": 143,
+    "artists": "",
+    "release_date": "29/02/2020"
+  },
+  {
+    "title": "mollis. Integer tincidunt aliquam",
+    "duration": 298,
+    "artists": "green",
+    "release_date": "01/11/2019"
+  },
+  {
+    "title": "at, egestas a, scelerisque",
+    "duration": 65,
+    "artists": "red, blue",
+    "release_date": "15/10/2019"
+  },
+  {
+    "title": "ipsum. Phasellus vitae mauris",
+    "duration": 138,
+    "artists": "yellow, orange",
+    "release_date": "05/07/2019"
+  },
+  {
+    "title": "nec, mollis vitae, posuere",
+    "duration": 263,
+    "artists": "violet, yellow",
+    "release_date": "01/02/2020"
+  },
+  {
+    "title": "viverra. Maecenas iaculis aliquet",
+    "duration": 150,
+    "artists": "orange, red, blue, indigo, green",
+    "release_date": "11/11/2019"
+  },
+  {
+    "title": "inceptos hymenaeos. Mauris ut",
+    "duration": 74,
+    "artists": "orange, red, yellow, blue",
+    "release_date": "30/08/2019"
+  },
+  {
+    "title": "blandit congue. In scelerisque",
+    "duration": 104,
+    "artists": "yellow, red, indigo, green",
+    "release_date": "09/09/2019"
+  },
+  {
+    "title": "luctus felis purus ac",
+    "duration": 134,
+    "artists": "green",
+    "release_date": "03/06/2019"
+  },
+  {
+    "title": "Lorem ipsum dolor sit",
+    "duration": 62,
+    "artists": "blue, violet, orange",
+    "release_date": "17/09/2019"
+  },
+  {
+    "title": "sem mollis dui, in",
+    "duration": 288,
+    "artists": "indigo",
+    "release_date": "13/02/2020"
+  },
+  {
+    "title": "arcu iaculis enim, sit",
+    "duration": 44,
+    "artists": "yellow, indigo, red, blue, green",
+    "release_date": "17/09/2019"
+  },
+  {
+    "title": "Etiam bibendum fermentum metus.",
+    "duration": 166,
+    "artists": "red, green, yellow, blue",
+    "release_date": "05/04/2019"
+  },
+  {
+    "title": "parturient montes, nascetur ridiculus",
+    "duration": 270,
+    "artists": "indigo, orange, violet",
+    "release_date": "28/06/2019"
+  },
+  {
+    "title": "nibh. Quisque nonummy ipsum",
+    "duration": 116,
+    "artists": "green",
+    "release_date": "06/06/2019"
+  },
+  {
+    "title": "arcu. Nunc mauris. Morbi",
+    "duration": 293,
+    "artists": "blue, orange, yellow",
+    "release_date": "30/07/2019"
+  },
+  {
+    "title": "luctus vulputate, nisi sem",
+    "duration": 185,
+    "artists": "green, red",
+    "release_date": "21/07/2019"
+  },
+  {
+    "title": "gravida sagittis. Duis gravida.",
+    "duration": 39,
+    "artists": "",
+    "release_date": "18/05/2019"
+  },
+  {
+    "title": "Nam ligula elit, pretium",
+    "duration": 286,
+    "artists": "indigo, yellow, green, blue",
+    "release_date": "12/08/2019"
+  },
+  {
+    "title": "Phasellus dapibus quam quis",
+    "duration": 140,
+    "artists": "orange, green, indigo, blue, red",
+    "release_date": "27/02/2020"
+  },
+  {
+    "title": "consequat dolor vitae dolor.",
+    "duration": 163,
+    "artists": "red",
+    "release_date": "08/06/2019"
+  },
+  {
+    "title": "vitae dolor. Donec fringilla.",
+    "duration": 294,
+    "artists": "blue, violet",
+    "release_date": "15/10/2019"
+  },
+  {
+    "title": "ac urna. Ut tincidunt",
+    "duration": 274,
+    "artists": "yellow",
+    "release_date": "13/02/2020"
+  },
+  {
+    "title": "dolor egestas rhoncus. Proin",
+    "duration": 248,
+    "artists": "orange, yellow, green, indigo, blue",
+    "release_date": "14/02/2020"
+  },
+  {
+    "title": "ligula. Aenean gravida nunc",
+    "duration": 185,
+    "artists": "green, blue, indigo, orange, violet",
+    "release_date": "24/02/2020"
+  },
+  {
+    "title": "Integer sem elit, pharetra",
+    "duration": 233,
+    "artists": "",
+    "release_date": "16/10/2019"
+  },
+  {
+    "title": "scelerisque scelerisque dui. Suspendisse",
+    "duration": 149,
+    "artists": "indigo, yellow",
+    "release_date": "08/02/2020"
+  },
+  {
+    "title": "mauris sagittis placerat. Cras",
+    "duration": 110,
+    "artists": "green, orange",
+    "release_date": "22/10/2019"
+  },
+  {
+    "title": "ligula. Donec luctus aliquet",
+    "duration": 78,
+    "artists": "",
+    "release_date": "12/08/2019"
+  },
+  {
+    "title": "erat neque non quam.",
+    "duration": 141,
+    "artists": "orange, violet, indigo, yellow",
+    "release_date": "23/09/2019"
+  },
+  {
+    "title": "Sed eu eros. Nam",
+    "duration": 18,
+    "artists": "yellow, red, orange, violet, green",
+    "release_date": "18/11/2019"
+  },
+  {
+    "title": "mi tempor lorem, eget",
+    "duration": 158,
+    "artists": "orange",
+    "release_date": "03/02/2020"
+  },
+  {
+    "title": "et, magna. Praesent interdum",
+    "duration": 138,
+    "artists": "",
+    "release_date": "11/05/2019"
+  },
+  {
+    "title": "convallis convallis dolor. Quisque",
+    "duration": 20,
+    "artists": "indigo, green, yellow, red, orange",
+    "release_date": "05/06/2019"
+  },
+  {
+    "title": "cursus et, eros. Proin",
+    "duration": 192,
+    "artists": "red, yellow, orange, green",
+    "release_date": "21/06/2019"
+  },
+  {
+    "title": "sociis natoque penatibus et",
+    "duration": 103,
+    "artists": "green, indigo, red, blue",
+    "release_date": "22/01/2020"
+  },
+  {
+    "title": "magna, malesuada vel, convallis",
+    "duration": 31,
+    "artists": "red",
+    "release_date": "11/10/2019"
+  },
+  {
+    "title": "lacus. Mauris non dui",
+    "duration": 174,
+    "artists": "orange",
+    "release_date": "11/11/2019"
+  },
+  {
+    "title": "pellentesque eget, dictum placerat,",
+    "duration": 219,
+    "artists": "red, green",
+    "release_date": "04/09/2019"
+  },
+  {
+    "title": "nisi dictum augue malesuada",
+    "duration": 90,
+    "artists": "orange, red",
+    "release_date": "03/02/2020"
+  },
+  {
+    "title": "lorem semper auctor. Mauris",
+    "duration": 167,
+    "artists": "red, indigo",
+    "release_date": "17/09/2019"
+  },
+  {
+    "title": "lacinia mattis. Integer eu",
+    "duration": 89,
+    "artists": "",
+    "release_date": "31/10/2019"
+  },
+  {
+    "title": "congue turpis. In condimentum.",
+    "duration": 214,
+    "artists": "green, yellow, violet",
+    "release_date": "12/07/2019"
+  },
+  {
+    "title": "massa non ante bibendum",
+    "duration": 233,
+    "artists": "red, violet, yellow, indigo",
+    "release_date": "21/05/2019"
+  },
+  {
+    "title": "Maecenas libero est, congue",
+    "duration": 78,
+    "artists": "yellow",
+    "release_date": "05/06/2019"
+  },
+  {
+    "title": "sed orci lobortis augue",
+    "duration": 109,
+    "artists": "red, green, yellow, indigo",
+    "release_date": "24/07/2019"
+  },
+  {
+    "title": "neque vitae semper egestas,",
+    "duration": 249,
+    "artists": "",
+    "release_date": "19/05/2019"
+  },
+  {
+    "title": "Nunc commodo auctor velit.",
+    "duration": 233,
+    "artists": "violet, yellow, red, blue",
+    "release_date": "18/02/2020"
+  },
+  {
+    "title": "pede. Suspendisse dui. Fusce",
+    "duration": 194,
+    "artists": "",
+    "release_date": "17/12/2019"
+  },
+  {
+    "title": "magnis dis parturient montes,",
+    "duration": 255,
+    "artists": "violet, indigo, blue, green",
+    "release_date": "23/06/2019"
+  },
+  {
+    "title": "Donec porttitor tellus non",
+    "duration": 176,
+    "artists": "",
+    "release_date": "15/07/2019"
+  },
+  {
+    "title": "Quisque fringilla euismod enim.",
+    "duration": 135,
+    "artists": "",
+    "release_date": "01/03/2020"
+  },
+  {
+    "title": "non, sollicitudin a, malesuada",
+    "duration": 138,
+    "artists": "indigo, red, green, violet, blue",
+    "release_date": "24/02/2020"
+  },
+  {
+    "title": "risus. Donec egestas. Aliquam",
+    "duration": 299,
+    "artists": "violet, red, indigo, green",
+    "release_date": "12/04/2019"
+  },
+  {
+    "title": "malesuada fames ac turpis",
+    "duration": 25,
+    "artists": "violet, orange",
+    "release_date": "19/09/2019"
+  },
+  {
+    "title": "Vivamus non lorem vitae",
+    "duration": 181,
+    "artists": "yellow",
+    "release_date": "21/03/2019"
+  },
+  {
+    "title": "sollicitudin commodo ipsum. Suspendisse",
+    "duration": 97,
+    "artists": "green, blue",
+    "release_date": "10/06/2019"
+  },
+  {
+    "title": "dolor. Nulla semper tellus",
+    "duration": 259,
+    "artists": "",
+    "release_date": "02/07/2019"
+  },
+  {
+    "title": "sed leo. Cras vehicula",
+    "duration": 14,
+    "artists": "",
+    "release_date": "03/09/2019"
+  },
+  {
+    "title": "et, commodo at, libero.",
+    "duration": 137,
+    "artists": "red, green, violet, yellow",
+    "release_date": "18/07/2019"
+  },
+  {
+    "title": "est, vitae sodales nisi",
+    "duration": 215,
+    "artists": "blue, red, violet, green, indigo",
+    "release_date": "17/09/2019"
+  },
+  {
+    "title": "tincidunt, neque vitae semper",
+    "duration": 264,
+    "artists": "",
+    "release_date": "20/03/2019"
+  },
+  {
+    "title": "sed, facilisis vitae, orci.",
+    "duration": 234,
+    "artists": "blue, violet",
+    "release_date": "25/05/2019"
+  },
+  {
+    "title": "metus eu erat semper",
+    "duration": 94,
+    "artists": "indigo, red",
+    "release_date": "17/06/2019"
+  },
+  {
+    "title": "lacinia. Sed congue, elit",
+    "duration": 55,
+    "artists": "green, violet",
+    "release_date": "05/01/2020"
+  },
+  {
+    "title": "ultricies sem magna nec",
+    "duration": 86,
+    "artists": "",
+    "release_date": "01/10/2019"
+  },
+  {
+    "title": "montes, nascetur ridiculus mus.",
+    "duration": 166,
+    "artists": "",
+    "release_date": "15/11/2019"
+  },
+  {
+    "title": "posuere, enim nisl elementum",
+    "duration": 229,
+    "artists": "violet, orange, yellow, red, green",
+    "release_date": "13/08/2019"
+  },
+  {
+    "title": "elit elit fermentum risus,",
+    "duration": 245,
+    "artists": "orange, red",
+    "release_date": "23/08/2019"
+  },
+  {
+    "title": "nec urna et arcu",
+    "duration": 229,
+    "artists": "",
+    "release_date": "21/01/2020"
+  },
+  {
+    "title": "Nunc ullamcorper, velit in",
+    "duration": 41,
+    "artists": "violet, orange, blue",
+    "release_date": "08/01/2020"
+  },
+  {
+    "title": "cursus in, hendrerit consectetuer,",
+    "duration": 59,
+    "artists": "orange, indigo, blue",
+    "release_date": "10/08/2019"
+  },
+  {
+    "title": "venenatis a, magna. Lorem",
+    "duration": 172,
+    "artists": "blue, orange",
+    "release_date": "16/09/2019"
+  },
+  {
+    "title": "non magna. Nam ligula",
+    "duration": 239,
+    "artists": "yellow, violet",
+    "release_date": "14/01/2020"
+  },
+  {
+    "title": "magna. Cras convallis convallis",
+    "duration": 15,
+    "artists": "red, indigo, blue",
+    "release_date": "23/11/2019"
+  }
+]
